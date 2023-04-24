@@ -1,2 +1,2 @@
-def add_fine(num):
+def add_five(num):
     return num + 5
